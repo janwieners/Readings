@@ -7,3 +7,4 @@ module Chapter_04_05 where
 
     (&&&) :: Bool -> Bool -> Bool
     a &&& b = if a then (if b then (True) else (False)) else False
+    

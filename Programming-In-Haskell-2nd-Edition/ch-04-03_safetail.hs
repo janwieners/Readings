@@ -17,3 +17,4 @@ module Chapter_04_03 where
     safetail'' :: [a] -> [a]
     safetail'' [] = []
     safetail'' (_:xs) = xs
+    

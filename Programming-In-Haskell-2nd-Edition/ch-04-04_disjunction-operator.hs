@@ -18,3 +18,4 @@ module Chapter_04_04 where
     b ||& c
         | b == c = b
         | otherwise = True
+        
