@@ -1,4 +1,4 @@
-module Chapter_04_05 where
+module Chapter_04_06 where
 
     {-
         True && b = b
