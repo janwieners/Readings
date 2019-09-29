@@ -1,5 +1,3 @@
-module Chapter_03 where
-
 -- Exercise 1: types
 {-
     ['a','b','c'] :: [Char]

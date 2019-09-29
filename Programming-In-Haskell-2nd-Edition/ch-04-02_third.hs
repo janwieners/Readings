@@ -1,5 +1,3 @@
-module Chapter_04_02 where
-
 -- return the 3rd element of a list
 
 -- head and tail
